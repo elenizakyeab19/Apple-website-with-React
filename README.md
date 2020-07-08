@@ -2,5 +2,6 @@
 * Built it from scratch
 * To Run this program
 
-   npm install
-   npm start
+   =>npm install
+   
+   =>npm start
