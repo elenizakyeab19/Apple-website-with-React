@@ -19,8 +19,8 @@ npm install
 
 ## Author ##
 
-Edom Meshesha
-    GitHub: @eskista
+Tewodros Negusse
+  
 
 ## Acknowledgments ##
 
