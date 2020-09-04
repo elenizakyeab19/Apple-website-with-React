@@ -9,7 +9,7 @@ class Youtube extends Component {
         }
     }
     componentDidMount(){
-        fetch("https://www.googleapis.com/youtube/v3/search?key={Your Damen API }&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=12")
+        fetch("https://www.googleapis.com/youtube/v3/search?key={Your API Key here }&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=12")
         .then(response => response.json())
         .then((data) => {
             const youTubeVideos =data.items;
